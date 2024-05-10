@@ -2,38 +2,38 @@
     "planszowki":[
         {
             "nazwa":"chińczyk",
-            "minWiek":"3",
-            "minLiczbaGraczy":"2",
-            "maxLiczbaGraczy":"4",
-            "czasGryMinuty":"30"
+            "minWiek":3,
+            "minLiczbaGraczy":2,
+            "maxLiczbaGraczy":4,
+            "czasGryMinuty":30
         },
         {
             "nazwa":"uno",
-            "minWiek":"7",
-            "minLiczbaGraczy":"2",
-            "maxLiczbaGraczy":"10",
-            "czasGryMinuty":"20"
+            "minWiek":7,
+            "minLiczbaGraczy":2,
+            "maxLiczbaGraczy":10,
+            "czasGryMinuty":20
         },
         {
             "nazwa":"poker",
-            "minWiek":"12",
-            "minLiczbaGraczy":"2",
-            "maxLiczbaGraczy":"10",
-            "czasGryMinuty":"45"
+            "minWiek":12,
+            "minLiczbaGraczy":2,
+            "maxLiczbaGraczy":10,
+            "czasGryMinuty":45
         },
         {
             "nazwa":"Dobble",
-            "minWiek":"7",
-            "minLiczbaGraczy":"2",
-            "maxLiczbaGraczy":"8",
-            "czasGryMinuty":"10"
+            "minWiek":7,
+            "minLiczbaGraczy":2,
+            "maxLiczbaGraczy":8,
+            "czasGryMinuty":10
         },
         {
             "nazwa":"Szachy",
-            "minWiek":"12",
-            "minLiczbaGraczy":"2",
-            "maxLiczbaGraczy":"2",
-            "czasGryMinuty":"20"
+            "minWiek":12,
+            "minLiczbaGraczy":2,
+            "maxLiczbaGraczy":2,
+            "czasGryMinuty":20
         }
     ]
 }
